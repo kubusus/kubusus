@@ -58,6 +58,6 @@ Technologies I used the most:
 I aim to provide musicians with a high-quality tool that makes practicing and mastering new songs more efficient.
 
 ## 💬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/[/in/jakubwoszczyk])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/jakubwoszczyk)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[jakub.woszczyk102@gmail.com])
 
