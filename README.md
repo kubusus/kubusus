@@ -2,7 +2,7 @@
 
 ## 🛠️ About Me
 - 🎓 **Education:**
-  - **MSc in Computer Science & Information Technology (Artificial Intelligence)**  (2022 – 2024): 
+  - **MSc in Computer Science & Information Technology (Artificial Intelligence)**  (2022 – 2024)
   - **BSc in Computer Science** (2018 – 2022)
 - 💼 **Current Role:** Software Engineer with a focus on C#, .NET, and ASP.NET.
 - 🌱 **Learning:** Currently deepening my knowledge in AI.
