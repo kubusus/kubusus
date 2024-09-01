@@ -5,7 +5,7 @@
   - **MSc in Computer Science & Information Technology (Artificial Intelligence)**  (2022 – 2024)
   - **BSc in Computer Science** (2018 – 2022)
 - 💼 **Current Role:** Software Engineer with a focus on C#, .NET, and ASP.NET.
-- 🌱 **Learning:** Currently deepening my knowledge in AI.
+- 🌱 **Learning:** Currently deepening my knowledge in AI and audio processing.
 - 🎯 **Goals:** To contribute to innovative projects and continue honing my skills in software development and machine learning.
 - 🏓 **Hobbies:** When I'm not coding, I enjoy playing the guitar and developing my own software, **RiffMaster**, to help musicians practice more effectively.
 
