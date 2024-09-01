@@ -51,7 +51,7 @@ Technologies I use the most:
 **RiffMaster** is a project that reflects my passion for both software development and music. As a guitarist and software engineer, I envisioned creating an intuitive tool that empowers musicians, especially beginners, to practice and learn new songs more effectively.
 
 **RiffMaster** is currently in development, and I'm really excited about bringing this project to life. This desktop application, built with .NET technology, leverages artificial intelligence to automatically divide musical compositions into sections such as verses, choruses, and bridges. 
-The AI-driven segmentation is visually presented, making it easier for users to navigate and practice different parts of a song. Additionally, **RiffMaster** offers audio processing effects like pitch shifting and tempo adjustment to enhance the practice experience. The goal is to launch **RiffMaster** as soon as possible, delivering a tool that's both powerful and user-friendly for musicians at all levels. 
+The AI-driven segmentation is visually presented, making it easier for users to navigate and practice different parts of a song. Additionally, **RiffMaster** offers audio processing effects like pitch shifting and tempo adjustment to practice favorite songs at a comfortable tempo in any tuning. The goal is to launch **RiffMaster** as soon as possible, delivering a tool that's both powerful and user-friendly for musicians at all levels. 
 I aim to provide musicians with a high-quality tool that makes practicing and mastering new songs more efficient.
 
 ![RiffMaster UI](https://github.com/kubusus/kubusus/raw/main/RiffMaster%20UI.png)
