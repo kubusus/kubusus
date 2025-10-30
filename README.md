@@ -8,6 +8,7 @@
 - 🌱 **Learning:** Currently deepening my knowledge in AI and audio processing.
 - 🎯 **Goals:** To contribute to innovative projects and continue honing my skills in software development and machine learning.
 - 🏓 **Hobbies:** When I'm not coding, I enjoy playing the guitar. I'm also developing my own software, **RiffMaster**, to help musicians practice more effectively.
+https://www.riffmaster-ai.com/
 
 ## 🛠️ Tech Stack
 Technologies I use the most:
